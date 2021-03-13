@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ServiceNow" max_length="40" name="x_594720_sn6_servicenow" type="collection">
+        <element label="Student Name " max_length="30" name="student_name" type="string"/>
+    </element>
+</database>
